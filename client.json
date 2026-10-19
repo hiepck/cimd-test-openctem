@@ -1,0 +1,9 @@
+{
+  "client_id": "https://raw.githubusercontent.com/hiepck/cimd-test-openctem/main/client.json",
+  "client_name": "OpenCTEM SSO Test",
+  "client_uri": "https://example.com/",
+  "redirect_uris": ["https://example.com/cb"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
